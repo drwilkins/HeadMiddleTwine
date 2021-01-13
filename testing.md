@@ -2,7 +2,7 @@
 by: Student X
 
 
-<iframe src="/stories/1.html" height="700px" width="100%"> </iframe>
+<iframe src="stories/1.html" height="700px" width="100%"> </iframe>
 
 (Review this story)["www.weather.com"]
 
