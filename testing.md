@@ -2,8 +2,8 @@
 by: Student X
 
 
-<iframe src="stories/1.html" height="700px" width="100%"> </iframe>
+<iframe src="stories/1.html" height="600px" width="100%"> </iframe>
 
-[Review this story]("www.weather.com")
+[Review this story]("http://www.weather.com")
 
-[Go back to the index]("./index.md")
+[Go back to the index]("../index.md")
