@@ -1,39 +1,9 @@
-## Welcome to GitHub Pages
+## Head Middle Magnet 2021 Interactive Fiction Showcase
 
-[Testing](testing.md)
+> These stories were crafted by 5th and 6th grade students at [Head STEAM Magnet](https://schools.mnps.org/head-middle-magnet-prep) in Nashville, TN using [Twine](https://www.twinery.org). These are all submissions for our first Interactive Fiction Competition.
 
-You can use the [editor on GitHub](https://github.com/drwilkins/HeadMiddleTwine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Open voting will be open from Mon Jan 25 to Wed Jan 27 (3pm). This will determine the top 10 semifinalists which will proceed to a final round. Top 10 will receive certificates of their achievement; Top 3 will receive $20 gift certificates; and the overall winner will receive an engraved award!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drwilkins/HeadMiddleTwine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Stories
+1. ["Lily and Sam" by Anonymous](voting-pages/01.md)
+2. ["The Undead Awakens" by Anonymous](voting-pages/02.md)
