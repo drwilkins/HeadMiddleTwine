@@ -1,4 +1,4 @@
-<img src="school_logo.png" width="30%">
+<img src="school_logo.png" width="15%">
 ## Head Middle Magnet 2021 Interactive Fiction Showcase
 
 > These stories were crafted by 5th and 6th grade students at [Head STEAM Magnet](https://schools.mnps.org/head-middle-magnet-prep) in Nashville, TN using [Twine](https://www.twinery.org). These are all submissions for our first Interactive Fiction Competition.
