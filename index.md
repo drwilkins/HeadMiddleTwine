@@ -1,7 +1,7 @@
 <head>
 <style>
 ol{
-  margin-bottom: .5rem;
+  line-height: 1.5rem;
   }
 </style>
 </head>
