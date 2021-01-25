@@ -28,6 +28,7 @@ ol{
 10. [**"The House..."** by Jayden Alex Manoj (Grade 5)](voting-pages/10.md)
 11. [**"The Cabin"** by Ty Hathaway (Grade 5)](voting-pages/11.md)
 12. [**"Crazy Farm Day"** by Rowan Austin (Grade 5)](voting-pages/12.md)
+13. [**"The Midnight Adventure"** by Helen Lundy (Grade 5)](voting-pages/13.md)
 
 
 
