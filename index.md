@@ -24,6 +24,9 @@
 12. [**"Crazy Farm Day"** by Rowan Austin (Grade 5)](voting-pages/12.md)
 13. [**"The Midnight Adventure"** by Helen Lundy (Grade 5)](voting-pages/13.md)
 
+----
+###Public Voting is Open until 3pm Central, January 26th, 2021!
+----
 #### After playing a few of the games, be sure to review and provide feedback to the authors using the link under each story. Ratings on creativity, grammar/punctuation/spelling, and engagement will determine the winners. Enjoy!
 <br/>
 <br/>
