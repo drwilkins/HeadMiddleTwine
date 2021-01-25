@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
+
 ol{
   line-height: 1.5rem;
   }
