@@ -1,10 +1,4 @@
-<head>
-<style>
-ol{
-  line-height: 1.5rem;
-  }
-</style>
-</head>
+
 
 <img src="school_logo.png" width="15%">
 ## Head Middle Magnet 2021 Interactive Fiction Showcase
@@ -30,5 +24,6 @@ ol{
 12. [**"Crazy Farm Day"** by Rowan Austin (Grade 5)](voting-pages/12.md)
 13. [**"The Midnight Adventure"** by Helen Lundy (Grade 5)](voting-pages/13.md)
 
-
-
+#### After playing a few of the games, be sure to review and provide feedback to the authors using the link under each story. Ratings on creativity, grammar/punctuation/spelling, and engagement will determine the winners. Enjoy!
+<br/>
+<br/>
