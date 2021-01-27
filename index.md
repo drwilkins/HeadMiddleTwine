@@ -11,7 +11,10 @@
 
 ### Stories
 ---
-#### Request – Please rate the following stories which have very little feedback: 4, 6, 8, 11, 12
+<div style="display: flex; justify-items:center">
+
+<img src="media/num_reviews_barplot.jpg" width=auto/>
+</div>
 ---
 
 
