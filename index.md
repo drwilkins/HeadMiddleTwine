@@ -13,7 +13,7 @@
 ---
 <div style="display: flex; justify-items:center">
 
-<img src="media/num_reviews_barplot.jpg" width=auto/>
+<img src="media/num_reviews_barplot.jpg" width=auto style="max-width: 500px"/>
 </div>
 ---
 
