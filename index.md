@@ -34,7 +34,7 @@
 
 ----
 ### Public Voting is Open until ***6PM Central***, January 26th, 2021!
-####* Note the deadline for turning in reviews has been extended 3 hours*
+#### *Note the deadline for turning in reviews has been extended 3 hours*
 ----
 #### After playing a few of the games, be sure to review and provide feedback to the authors using the link under each story. Ratings on creativity, grammar/punctuation/spelling, and engagement will determine the winners. Enjoy!
 <br/>
