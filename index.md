@@ -11,7 +11,7 @@
 
 ### Stories
 ---
-#### Request – Please rate the following stories which have very little feedback: 4, 6, 8, 9, 11, 12
+#### Request – Please rate the following stories which have very little feedback: 4, 6, 8, 11, 12
 ---
 
 
