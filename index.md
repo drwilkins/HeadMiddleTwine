@@ -13,7 +13,7 @@
 ---
 <div style="display: flex; justify-items:center">
 
-<img src="media/num_reviews_barplot.jpg" width=auto style="max-width: 500px"/>
+<img src="media/num_reviews_barplot.jpg" width=auto style="max-width: 800px"/>
 </div>
 ---
 
@@ -33,7 +33,8 @@
 13. [**"The Midnight Adventure"** by Helen Lundy (Grade 5)](voting-pages/13.md)
 
 ----
-###Public Voting is Open until 3pm Central, January 26th, 2021!
+### Public Voting is Open until ***6PM Central***, January 26th, 2021!
+####* Note the deadline for turning in reviews has been extended 3 hours*
 ----
 #### After playing a few of the games, be sure to review and provide feedback to the authors using the link under each story. Ratings on creativity, grammar/punctuation/spelling, and engagement will determine the winners. Enjoy!
 <br/>
