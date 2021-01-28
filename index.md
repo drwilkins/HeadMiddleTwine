@@ -11,12 +11,6 @@
 
 ### Stories
 ---
-<div style="display: flex; justify-items:center">
-
-<img src="media/num_reviews_barplot.jpg" max-width="700px"/>
-</div>
----
-
 
 1. [**"The Chosen One"** by Goat with a Coat (Grade 5)](voting-pages/01.md)
 2. [**"Avalanche"** by Hannah Rodriguez (Grade 6)](voting-pages/02.md)
@@ -33,9 +27,7 @@
 13. [**"The Midnight Adventure"** by Helen Lundy (Grade 5)](voting-pages/13.md)
 
 ----
-### Public Voting is Open until ***Midnight***, January 26th, 2021!
-#### *Note the deadline for turning in reviews has been extended till midnight*
+### Public voting has ended. Winners will be announced on January 31st.
 ----
-#### After playing a few of the games, be sure to review and provide feedback to the authors using the link under each story. Ratings on creativity, grammar/punctuation/spelling, and engagement will determine the winners. Enjoy!
 <br/>
 <br/>
