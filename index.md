@@ -3,11 +3,11 @@
 <img src="school_logo.png" width="15%">
 ## Head Middle Magnet 2021 Interactive Fiction Showcase
 
-> These stories were crafted by 5th and 6th grade students at [Head STEAM Magnet](https://schools.mnps.org/head-middle-magnet-prep) in Nashville, TN using [Twine](https://www.twinery.org). These are all submissions for our first Interactive Fiction Competition.
+> These choose-your-own adventure games were crafted by 5th and 6th grade students at [Head STEAM Magnet](https://schools.mnps.org/head-middle-magnet-prep) in Nashville, TN using [Twine](https://www.twinery.org). These are all submissions for our first Interactive Fiction Competition.
 
-> Students all had to start with the same prompt: "Sam had warned her a thousand times, but she never listened." Their choose-your-own-adventure games diverge from there, going in totally unexpected, creative directions!
+> Students all had to start with the same prompt: "Sam had warned her a thousand times, but she never listened." Their interactive stories diverge from there, going in totally unexpected, creative directions!
 
-> Public voting will be open from Mon Jan 25 to Wed Jan 27 (3pm). This will determine the top 5 semifinalists which will proceed to a final round. The Top 5 will receive certificates of their achievement; Top 3 will receive $20 gift certificates; and the overall winner will receive an engraved award!
+> A round of public voting determined semifinalists and a professional judging panel decided the finalists and the winner. All the games represent an incredibly high achievement in creativity and technical prowess for these young authors!
 
 ### Stories
 ---

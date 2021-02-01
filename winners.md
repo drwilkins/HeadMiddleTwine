@@ -3,11 +3,11 @@
 ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀ ❀<br>
 </h1>
 
-##### We are very proud of all our students who submitted Twine games for this competition! They worked for several weeks on crafting short stories, which they translated into the [Twine](http://twinery.org/) format and then began to branch off, adding multiple endings and rich world-building details.
+#### We are very proud of all our students who submitted Twine games for this competition! They worked for several weeks on crafting short stories, which they translated into the [Twine](http://twinery.org/) format and then began to branch off, adding multiple endings and rich world-building details. They went through multiple rounds of revision, including a round of peer review. All entrants will receive detailed feedback from at least 3 reviewers to help them create even richer stories in the future.
 
-##### Semifinalists (who will all receive certificates of their achievement) were decided by over 80 votes from middle and high school students and the general public.
+#### Semifinalists (who will all receive certificates of their achievement) were decided by over 80 votes from middle and high school students and the general public.
 
-##### Finalists (and the overall winner) were decided by two professional writers [Tahlia Kirk](https://www.amazon.com/Tahlia-Kirk/e/B081B7ZFMQ%3Fref=dbs_a_mng_rwt_scns_share) and [Dana Fraedrich](https://www.amazon.com/Out-Shadows-Broken-Gears-Book-ebook/dp/B01JHY3A6A/) who served on our judging panel. The 3 finalists will receive Amazon gift certificates, and the overall winner, Hannah Rodriguez, will receive an engraved award. All entrants will receive detailed feedback from at least 3 reviewers to inform their future stories.
+##### Finalists (and the overall winner) were decided by two professional writers [Tahlia Kirk](https://www.amazon.com/Tahlia-Kirk/e/B081B7ZFMQ%3Fref=dbs_a_mng_rwt_scns_share) and [Dana Fraedrich](https://www.amazon.com/Out-Shadows-Broken-Gears-Book-ebook/dp/B01JHY3A6A/) who served on our judging panel. The 3 finalists will receive Amazon gift certificates, and the overall winner, Hannah Rodriguez, will receive an engraved award.
 
 <img src="media/fireworks.gif" max-width="500px">
 
@@ -22,5 +22,8 @@
 |Semifinalist| Plot Twist Award |Zachariah C. Diaz | ["Camping"](stories/09.md)|
 
 # Very well done all!
-(Go back and play all the submitted games in our showcase! Many have unexpected twists and endings that reward multiple play-throughs to explore optional paths.)
+Now, go back and play all the submitted games in our showcase! Many have unexpected twists and alternate endings that reward multiple play-throughs. Enjoy :)
+
+
+
 
