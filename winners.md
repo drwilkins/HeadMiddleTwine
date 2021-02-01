@@ -13,13 +13,13 @@
 
 | Level | Award | Author | Story |
 | ---   | ---   | ---   | ---   |
-| Finalist| Overall Winner| Hannah Rodriguez | ["Avalanche"](stories/02.md)|
-| Finalist| Spine-Tingler Award|Goat with a Coat | ["The Chosen One"](stories/01.md)|
-|Finalist| Creativity Award| Liesl Wilson| ["The Picture"](stories/05.md)|
-|Semifinalist| People's Choice Award| Jayden Alex Manoj| ["The House"](stories/10.md)|
-|Semifinalist| Suspense Award| Ty Hathaway | ["The Cabin"](stories/11.md)|
-|Semifinalist| Plot Design Award |Simon Dowell | ["The Cave Adventure"](stories/07.md)|
-|Semifinalist| Plot Twist Award |Zachariah C. Diaz | ["Camping"](stories/09.md)|
+| Finalist| Overall Winner| Hannah Rodriguez | ["Avalanche"](voting-pages/02.md)|
+| Finalist| Spine-Tingler Award|Goat with a Coat | ["The Chosen One"](voting-pages/01.md)|
+|Finalist| Creativity Award| Liesl Wilson| ["The Picture"](voting-pages/05.md)|
+|Semifinalist| People's Choice Award| Jayden Alex Manoj| ["The House"](voting-pages/10.md)|
+|Semifinalist| Suspense Award| Ty Hathaway | ["The Cabin"](voting-pages/11.md)|
+|Semifinalist| Plot Design Award |Simon Dowell | ["The Cave Adventure"](voting-pages/07.md)|
+|Semifinalist| Plot Twist Award |Zachariah C. Diaz | ["Camping"](voting-pages/09.md)|
 
 # Very well done all!
 Now, go back and play [all the submitted games](index.md) in our showcase! Many have unexpected twists and alternate endings that reward multiple play-throughs. Enjoy :)
