@@ -27,7 +27,7 @@
 13. [**"The Midnight Adventure"** by Helen Lundy (Grade 5)](voting-pages/13.md)
 
 ----
-### Public voting has ended. Winners will be announced on January 31st.
+## [❀ See the Award Winners! ❀](winners.md)
 ----
 <br/>
 <br/>
