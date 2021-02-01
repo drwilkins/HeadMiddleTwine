@@ -7,7 +7,7 @@
 
 #### Semifinalists (who will all receive certificates of their achievement) were decided by over 80 votes from middle and high school students and the general public.
 
-##### Finalists (and the overall winner) were decided by two professional writers [Tahlia Kirk](https://www.amazon.com/Tahlia-Kirk/e/B081B7ZFMQ%3Fref=dbs_a_mng_rwt_scns_share) and [Dana Fraedrich](https://www.amazon.com/Out-Shadows-Broken-Gears-Book-ebook/dp/B01JHY3A6A/) who served on our judging panel. The 3 finalists will receive Amazon gift certificates, and the overall winner, Hannah Rodriguez, will receive an engraved award.
+#### Finalists (and the overall winner) were decided by two professional writers [Tahlia Kirk](https://www.amazon.com/Tahlia-Kirk/e/B081B7ZFMQ%3Fref=dbs_a_mng_rwt_scns_share) and [Dana Fraedrich](https://www.amazon.com/Out-Shadows-Broken-Gears-Book-ebook/dp/B01JHY3A6A/), who served on our judging panel. The 3 finalists will receive Amazon gift certificates, and the overall winner, Hannah Rodriguez, will receive an engraved award.
 
 <img src="media/fireworks.gif" max-width="500px">
 
@@ -22,7 +22,7 @@
 |Semifinalist| Plot Twist Award |Zachariah C. Diaz | ["Camping"](stories/09.md)|
 
 # Very well done all!
-Now, go back and play all the submitted games in our showcase! Many have unexpected twists and alternate endings that reward multiple play-throughs. Enjoy :)
+Now, go back and play [all the submitted games](index.md) in our showcase! Many have unexpected twists and alternate endings that reward multiple play-throughs. Enjoy :)
 
 
 
